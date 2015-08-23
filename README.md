@@ -33,23 +33,32 @@ below and hit save when you are done.
 
 Although plain text files generally do not have a syntax, I recommend using
 the default [Markdown syntax](http://daringfireball.net/projects/markdown/syntax).
-Some examples
+Moreover, I advise you to separate elements with a blank line. Some examples:
 
-> # Heading
+    # Heading
 
-> ## Sub-heading
+    ## Sub-heading
 
-> - list item
+    - list item
 
-> todo: indicate a todo for today
+    todo: to mark a line as a todo for today
 
-> done: to mark a line as done for today
+    done: to mark a line as done for today
 
-> @context to indicate the context of a line
+    thought: to mark a line as a thought of today
 
-> +project to indicate the project to which a line belongs to
+    experience: to mark a line as an experience of today
 
-> (A) (B) (C) to indicate the priority of a line
+    reflection: to mark a line as a reflection of today
+
+    idea: to mark a line as an idea of today
+
+    @context to indicate the context of a line
+
+    +project to indicate the project to which a line belongs to
+
+    (A) (B) (C) to indicate the priority of a line
+
 
 # Recommended software
 
