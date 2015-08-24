@@ -7,7 +7,8 @@ two elements:
 2. The `today.txt` template that assists you organising your everyday life
 in plain text files. Create one copy of `today.txt` for each day and use it
 as your journal/diary, to set your goal of today, to structure your morning,
-and to spend free time on the things you love.
+get done with your chores as quickly as possible, and to spend free time on
+the things you love.
 
 This template keeps your life structured in an easy to manage system and
 thereby frees up time and mental capacity for the things that really matter in
