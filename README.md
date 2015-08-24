@@ -80,6 +80,11 @@ Start a software that indexes all your plain text files. On Linux I recommend
 keywords or tags that you remember and quickly find the right file you were
 looking for.
 
+# Attribution
+
+Thanks to [John Henry Müller](http://johnhenrymuller.com/today) from whom
+I took the inspiration to extend his initial template.
+
 # Contribute
 
 I am very happy for all kind of feedback that make this template more useful
