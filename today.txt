@@ -45,5 +45,5 @@ I will spend my free time on ______ then ______ then ________.
 
 ## Notes of today
 
-Over the entire day I have collected the following :todo, :thought, :experience,
-:reflection, :idea:
+Over the entire day I have collected the following todo:, thought:, experience:,
+reflection:, idea:, feeling:
