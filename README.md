@@ -4,8 +4,8 @@ Welcome to the **Plain Text Life** project. This project consists of only
 two elements:
 
 1. The README you are reading right now,
-2. The `today.txt` template that assists you organising your everyday life
-in plain text files. Create one copy of `today.txt` for each day and use it
+2. The [today.txt](today.txt) template that assists you organising your everyday life
+in plain text files. Create one copy of [today.txt](today.txt) for each day and use it
 as your journal/diary, to set your goal of today, to structure your morning,
 get done with your chores as quickly as possible, and to spend free time on
 the things you love.
