@@ -55,6 +55,8 @@ Moreover, I advise you to separate elements with a blank line. Some examples:
     idea: to mark a line as an idea of today
 
     feeling: to mark a line as a feeling of today
+    
+    note: to mark a line as a useful information to remember of today
 
     @context to indicate the context of a line
 
