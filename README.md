@@ -72,8 +72,8 @@ belows:
 
 * Linux: [Calmy Writer](http://calmlywriter.com/), [Focuswriter](http://gottcode.org/focuswriter/)
 * Android: [JotterPad](https://play.google.com/store/apps/details?id=com.jotterpad.x)
-* iPhone:
-* iPad:
+* iPhone:[Drafts](https://getdrafts.com)
+* iPad:[Drafts](https://getdrafts.com)
 * Mac: [Calmy Writer](http://calmlywriter.com/), [Focuswriter](http://gottcode.org/focuswriter/)
 * Windows: [Calmy Writer](http://calmlywriter.com/), [Focuswriter](http://gottcode.org/focuswriter/)
 * ChromeOS: [Calmy Writer](http://calmlywriter.com/)
